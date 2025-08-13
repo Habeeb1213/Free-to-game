@@ -818,6 +818,9 @@ h1{
 
 
 @media screen and (max-width:600px) {
+    *{
+        overflow: hidden;
+    }
     .nav-links-right,
     .nav-links-left{
         display: none;
