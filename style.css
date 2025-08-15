@@ -828,7 +828,7 @@ h1{
     .nav_bar {
         overflow: hidden;
         padding: 12px 15px;
-        max-width: 100%;
+        max-width: 90%;
     }
 
     .nav_bar .hamburg {
