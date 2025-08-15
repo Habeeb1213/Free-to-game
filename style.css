@@ -823,6 +823,11 @@ h1{
         display: none;
     }
 
+    .nav_bar{
+        overflow:hidden;
+        
+    }
+
     .nav_bar .hamburg{
     display: flex;
     justify-content: flex-end;
