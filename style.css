@@ -1037,6 +1037,7 @@ h1{
     gap: 15px;
     flex-direction: column;
     width: 650px;
+    overflow:hidden;
 }
 
 .recommendation-card {
@@ -1064,7 +1065,7 @@ h1{
     align-items: center;
     gap: 40px;
     max-width: 1200px;
-    margin: 20px 15px;
+    margin: 20px 10px;
     padding: 40px 20px;
     flex-direction: column;
 
