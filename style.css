@@ -832,9 +832,10 @@ h1{
     .nav_bar {
         overflow: hidden;
         padding: 12px 15px;
-        max-width: 90%;
+        max-width: 600px;
         display: flex;
         justify-content: space-around;
+        
     }
 
     .nav_bar .hamburg {
